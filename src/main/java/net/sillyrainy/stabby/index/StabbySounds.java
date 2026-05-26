@@ -16,7 +16,7 @@ public interface StabbySounds {
     Holder<SoundEvent> SCYTHE_SLASH = SOUND_EVENTS.register(
             "scythe_slash",
             () -> SoundEvent.createVariableRangeEvent(
-                    ResourceLocation.parse("stabby:weapons/scythe_slash")
+                    ResourceLocation.parse("stabby:scythe_slash")
             ));
 
     static void register(IEventBus eventBus) {

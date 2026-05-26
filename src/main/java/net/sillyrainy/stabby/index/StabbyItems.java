@@ -26,7 +26,7 @@ public interface StabbyItems {
 
     // Weapon Registers
     DeferredItem<Item> RAPIER = ITEMS.register("rapier", () -> new RapierItem(Tiers.IRON,1,-1.4f));
-    DeferredItem<Item> SCYTHE = ITEMS.register("scythe", () -> new ScytheItem(Tiers.IRON,5,-2f));
+    DeferredItem<Item> SCYTHE = ITEMS.register("scythe", () -> new ScytheItem(Tiers.IRON,7,-2.6f));
     DeferredItem<Item> CLEAVER = ITEMS.register("cleaver", () -> new CleaverItem(Tiers.IRON,2,-2f));
     DeferredItem<Item> CLEAVER_OF_BEHEADING = ITEMS.register("cleaverofbeheading", () -> new CleaverOfBeheadingItem(Tiers.IRON,12,-3.5f));
 

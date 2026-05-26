@@ -2,5 +2,27 @@
   "parent": "minecraft:item/handheld",
   "textures": {
     "layer0": "stabby:item/scythe"
+  },
+  "display": {
+    "thirdperson_righthand": {
+      "scale": [1.5,1.5,1.5],
+      "rotation": [0,-90,30],
+      "translation": [0,4,2]
+    },
+    "thirdperson_lefthand": {
+      "scale": [1.5,1.5,1.5],
+      "rotation": [0,90,-30],
+      "translation": [0,4,2]
+    },
+    "firstperson_righthand": {
+      "scale": [2,2,1.5],
+      "rotation": [0,-90,55],
+      "translation": [0,5,-1]
+    },
+    "firstperson_lefthand": {
+      "scale": [2,2,1.5],
+      "rotation": [0,90,-55],
+      "translation": [0,5,-1]
+    }
   }
 }
