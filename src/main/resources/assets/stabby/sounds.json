@@ -1,0 +1,16 @@
+{
+  "scythe_slash": {
+    "sounds": [
+      {
+        "name": "stabby:weapons/scythe_slash",
+        "type": "sound",
+        "volume": 0.8,
+        "pitch": 1.1,
+        "weight": 3,
+        "stream": true,
+        "attenuation_distance": 8,
+        "preload": false
+      }
+    ]
+  }
+}

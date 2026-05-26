@@ -1,0 +1,28 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "stabby:item/cleaverofbeheading"
+  },
+  "display": {
+    "thirdperson_righthand": {
+      "scale": [2,2,2],
+      "rotation": [0,-90,55],
+      "translation": [0,13,-1]
+    },
+    "thirdperson_lefthand": {
+      "scale": [2,2,2],
+      "rotation": [0,90,-55],
+      "translation": [0,13,-1]
+    },
+    "firstperson_righthand": {
+      "scale": [2,2,2],
+      "rotation": [0,-90,55],
+      "translation": [0,13,-1]
+    },
+    "firstperson_lefthand": {
+      "scale": [2,2,2],
+      "rotation": [0,90,-55],
+      "translation": [0,13,-1]
+    }
+  }
+}

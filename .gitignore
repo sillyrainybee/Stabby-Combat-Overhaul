@@ -1,0 +1,10 @@
+# Gradle
+.gradle/
+build/
+run/
+
+# Intelli J
+.idea/
+/src/generated/resources/.cache/701d7b7299de6ff85e63123aca9a14bb9fca919a
+/src/generated/resources/data/neoforge/loot_modifiers/global_loot_modifiers.json
+/src/generated/resources/data/stabby/loot_modifiers/cleaverbonusloot.json
